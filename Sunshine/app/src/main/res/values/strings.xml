@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Sunshine</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string-array name="list_preference_entries">
+        <item>Metric</item>
+        <item>Imperial</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
 </resources>

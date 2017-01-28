@@ -8,7 +8,9 @@
         android:title="Settings"
         app:showAsAction="never" />
     <item
-        android:id="@+id/action_map"
-        android:title="Map"
-        app:showAsAction="never" />
+        android:id="@+id/action_share"
+        android:orderInCategory="100"
+        android:title="Share"
+        app:showAsAction="always"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider" />
 </menu>

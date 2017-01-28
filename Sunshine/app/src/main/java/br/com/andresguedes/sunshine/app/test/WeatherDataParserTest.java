@@ -1,4 +1,4 @@
-package br.com.andresguedes.sunshine.app;
+package br.com.andresguedes.sunshine.app.test;
 
 import org.json.JSONException;
 
